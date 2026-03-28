@@ -8,14 +8,13 @@ PRDs, user stories, competitive analysis, release notes, KB articles - structure
 
 ## Templates
 
-| Template | What It Does | Status |
-|---|---|---|
-| [PRD Generator](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/prd/prd-template.md) | Structured PRD with problem statement, solution, metrics, edge cases, and trade-offs | 
-| [User Story + Acceptance Criteria](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/user-stories/user-story-template.md) | User stories with Given/When/Then acceptance criteria and Mixpanel event definitions | 
-| [Competitive Analysis](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/competitive-analysis/competitive-analysis-template.md) | Feature-level competitive comparison with scoring matrix and strategic takeaways | 
-| [Release Notes](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/release-notes/release-notes-template.md) | Internal and external release notes from raw feature lists or tickets | 
-| [KB Article Generator](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/kb-articles/kb-article-template.md) | Step-by-step knowledge base articles with tips, warnings, and role-based guidance | 
-
+| Template | What It Does |
+|---|---|
+| [PRD Generator](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/prd/prd-template.md) | Structured PRD with problem statement, solution, metrics, edge cases, and trade-offs |
+| [User Story + Acceptance Criteria](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/user-stories/user-story-template.md) | User stories with Given/When/Then acceptance criteria and Mixpanel event definitions |
+| [Competitive Analysis](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/competitive-analysis/competitive-analysis-template.md) | Feature-level competitive comparison with scoring matrix and strategic takeaways |
+| [Release Notes](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/release-notes/release-notes-template.md) | Internal and external release notes from raw feature lists or tickets |
+| [KB Article Generator](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/prompts/kb-articles/kb-article-template.md) | Step-by-step knowledge base articles with tips, warnings, and role-based guidance |
 
 ## MCP Workflows
 

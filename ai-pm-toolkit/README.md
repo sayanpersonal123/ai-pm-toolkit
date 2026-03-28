@@ -132,8 +132,8 @@ MIT — use it, fork it, adapt it, share it.
 
 ## About
 
-Built by [Sayan Gupta](https://www.linkedin.com/in/sayangupta07/) — Lead Product Manager working on AI-powered hiring automation and workflow tools for enterprise customers. I use Claude.ai daily for PRDs, user stories, competitive analysis, and cross-tool workflows.
+Built by [Sayan Gupta](https://www.linkedin.com/in/sayangupta07/) — Lead Product Manager working on AI-native hiring automation and workflow tools for enterprise customers. I use Claude.ai daily for PRDs, user stories, competitive analysis, and cross-tool workflows.
 
 This repo is a distillation of what actually works in production PM work, not what sounds good in a blog post.
 
-**Find me on**: [LinkedIn](https://www.linkedin.com/in/sayangupta07/) · [Substack](https://sayangupta.substack.com/) · [Portfolio](https://sayan-gupta-portfolio.vercel.app/)
+**Find me on**: [LinkedIn](https://www.linkedin.com/in/sayan-gupta007/) · [Substack](https://sayangupta.substack.com/) · [Portfolio](https://www.sayangupta.in/)

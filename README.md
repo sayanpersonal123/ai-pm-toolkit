@@ -22,9 +22,9 @@ Guides for using Claude.ai with connected tools — pull live data, create artif
 
 | Guide | What You Can Do |
 |---|---|
-| [Linear + Claude](workflows/mcp-integrations/linear-claude-workflow.md) | Sprint release notes from tickets, PRD → Linear issues, backlog summaries |
-| [Slack + Claude](workflows/mcp-integrations/slack-claude-workflow.md) | Channel → action items, feature announcements, feedback mining |
-| [Notion + Claude](workflows/mcp-integrations/notion-claude-workflow.md) | Push PRDs to Notion, query databases, meeting notes, doc audits |
+| [Linear + Claude](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/workflows/mcp-integrations/linear-claude-workflow.md) | Sprint release notes from tickets, PRD → Linear issues, backlog summaries |
+| [Slack + Claude](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/workflows/mcp-integrations/slack-claude-workflow.md) | Channel → action items, feature announcements, feedback mining |
+| [Notion + Claude](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/workflows/mcp-integrations/notion-claude-workflow.md) | Push PRDs to Notion, query databases, meeting notes, doc audits |
 
 ---
 

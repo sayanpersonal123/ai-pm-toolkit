@@ -1,6 +1,6 @@
 # AI PM Toolkit
 
-Copy-paste prompt templates and MCP workflow guides for product managers using Claude.ai.
+**Production-ready prompt templates and workflows for product managers using Claude.ai**
 
 PRDs, user stories, competitive analysis, release notes, KB articles - structured, repeatable, production-grade.
 
@@ -10,11 +10,11 @@ PRDs, user stories, competitive analysis, release notes, KB articles - structure
 
 | Template | What You Get |
 |---|---|
-| [PRD Generator](prompts/prd/prd-template.md) | 10-section PRD with requirements (P0/P1/P2), success metrics, dependencies |
-| [User Stories](prompts/user-stories/user-story-template.md) | Given/When/Then acceptance criteria + Mixpanel event definitions |
-| [Competitive Analysis](prompts/competitive-analysis/competitive-analysis-template.md) | Feature matrix, scoring, competitor deep dives, sales talk tracks |
-| [Release Notes](prompts/release-notes/release-notes-template.md) | Internal (CS/Sales/Eng) + external (customer-facing) variants |
-| [KB Articles](prompts/kb-articles/kb-article-template.md) | Step-by-step articles with tips, warnings, role-based callouts |
+| [PRD Generator](prompts/prd/prd-template.md) | Structured PRD with problem statement, solution, metrics, edge cases, and trade-offs |
+| [User Story + Acceptance Criteria](prompts/user-stories/user-story-template.md) | User stories with Given/When/Then acceptance criteria and Mixpanel event definitions |
+| [Competitive Analysis](prompts/competitive-analysis/competitive-analysis-template.md) | Feature-level competitive comparison with scoring matrix and strategic takeaways |
+| [Release Notes](prompts/release-notes/release-notes-template.md) | Internal and external release notes from raw feature lists or tickets |
+| [KB Article Generator](prompts/kb-articles/kb-article-template.md) | Step-by-step knowledge base articles with tips, warnings, and role-based guidance |
 
 ## MCP Workflows
 
@@ -58,12 +58,38 @@ Request a template → [open an issue](../../issues).
 
 Fork → add your template in `prompts/` or `workflows/` → PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for format.
 
+### Template Format
+
+All templates follow this structure:
+
+```
+# Template Name
+
+## When to Use
+## The Prompt
+## Example Output
+## Customization Tips
+## Related Templates
+```
+
+---
+
+## Star History
+
+If this toolkit saves you time, star it so other PMs can find it.
+
+---
+
 ## License
 
-MIT
+MIT - use it, fork it, adapt it, share it.
 
-## Author
+---
 
-**[Sayan Gupta](https://www.linkedin.com/in/sayan-gupta007/)** — Lead PM, enterprise B2B SaaS. [Substack](https://sayangupta.substack.com/) · [Portfolio](https://www.sayangupta.in/)
+## About
 
-⭐ Star if useful.
+Built by [Sayan Gupta](https://www.linkedin.com/in/sayangupta07/) — Lead Product Manager working on AI-native hiring automation and workflow tools for enterprise customers. I use Claude.ai daily for PRDs, user stories, competitive analysis, and cross-tool workflows.
+
+This repo is a distillation of what actually works in production PM work, not what sounds good in a blog post.
+
+**Find me on**: [LinkedIn](https://www.linkedin.com/in/sayan-gupta007/) · [Substack](https://sayangupta.substack.com/) · [Portfolio](https://www.sayangupta.in/)

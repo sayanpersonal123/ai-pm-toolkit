@@ -56,7 +56,7 @@ Request a template → [open an issue](../../issues).
 
 ## Contributing
 
-Fork → add your template in `prompts/` or `workflows/` → PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for format.
+Fork → add your template in `prompts/` or `workflows/` → PR. See [CONTRIBUTING.md](https://github.com/sayanpersonal123/ai-pm-toolkit/blob/main/ai-pm-toolkit/CONTRIBUTING.md) for format.
 
 ### Template Format
 
